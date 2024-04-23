@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Script to count 
 
 

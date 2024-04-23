@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Cr9ver
+# Author: Melik Cetin
 # This script will pull error messages from /var/log/messages
 
 

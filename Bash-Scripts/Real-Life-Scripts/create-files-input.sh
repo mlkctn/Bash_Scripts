@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Daniel
+# Author: Melik Cetin
 # Desciption: Create multiple user files with user input 
 
 

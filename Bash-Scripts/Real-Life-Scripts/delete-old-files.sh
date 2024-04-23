@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Cr9ver
+# Author: Melik Cetin
 # Description: This script will delete files older tham 90 days
 # Command to create old files : touch -d "Thu, 1 March 2018 12:30:00" filename
 

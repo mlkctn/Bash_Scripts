@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Cr9ver
+# Author: Melik Cetin
 # Description: Backup /etc and /var filesystem
 
 tar cvf /tmp/backup.tar /etc /var

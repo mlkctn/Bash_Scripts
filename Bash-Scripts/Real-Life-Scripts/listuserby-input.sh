@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script will list users logged in by user input
 
 

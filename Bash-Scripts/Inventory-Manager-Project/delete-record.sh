@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Daniel 
+# Author: Melik Cetin
 #Description: This script would delete system inventory from the databse file 
 
 echo "Enter hostname or IP address"

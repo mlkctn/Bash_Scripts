@@ -1,6 +1,6 @@
 #!/bin/bash
 # Description: kill process with pid
-# Author: Daniel
+# Author: Melik Cetin
 
 
 # Script is just killing sleep600 process which was started

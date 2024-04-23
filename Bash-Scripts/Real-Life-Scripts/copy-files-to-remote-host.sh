@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script would copy files to remote hosts
 
 a=4(cat /home/file/path)

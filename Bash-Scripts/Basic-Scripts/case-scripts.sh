@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 echo
 echo "Please choose one of the options below:"

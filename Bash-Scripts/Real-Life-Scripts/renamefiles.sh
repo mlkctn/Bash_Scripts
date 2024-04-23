@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script will rename files endign with .txt
 
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script checks disk status 
 
 a=$(df -h | egrep -v "tmpfs|devtmpfs" | tail -n+2 | awk '{print $5}' | cut -d'%' -f1)

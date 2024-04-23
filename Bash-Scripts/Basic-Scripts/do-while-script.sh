@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 count=0
 num=10

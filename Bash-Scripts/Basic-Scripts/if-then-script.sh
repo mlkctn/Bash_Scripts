@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 count=1
 if [ $count -eq 100 ]

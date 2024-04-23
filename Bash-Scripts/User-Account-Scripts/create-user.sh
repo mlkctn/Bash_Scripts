@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Descitpion: This script would create a user account 
 
 # grep username /etc/passwd: code to verify if user exists

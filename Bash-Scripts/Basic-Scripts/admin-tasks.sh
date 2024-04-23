@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: basic admin commands 
 
 echo This script would run basic administrative commands

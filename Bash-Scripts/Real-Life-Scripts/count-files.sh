@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script would verify total number of files
 
 a=$(ls -l file* | wc -l)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: Assign permissions to files
 
 # total=$(ls -l dan* | wc -l)

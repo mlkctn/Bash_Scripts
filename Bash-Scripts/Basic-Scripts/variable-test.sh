@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 #* Define variables
 

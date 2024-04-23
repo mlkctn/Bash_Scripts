@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author : Daniel
+# Author : Melik Cetin
 # Description: This script will send an email of log errors to the admin
 
 

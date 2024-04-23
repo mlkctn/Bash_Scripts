@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Daniel
+# Author: Melik Cetin
 # Description: This script would disable inactive user accounts 
 # Command to view users login: lastlog or lastlog -b 90 #view users that have not been logged in for 90days
 

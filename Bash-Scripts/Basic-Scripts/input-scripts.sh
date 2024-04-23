@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 a=$(hostname) # `hostname` or $(hostname) can also be used
 echo "Hello, my server name is $a"

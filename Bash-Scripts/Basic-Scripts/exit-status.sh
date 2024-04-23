@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 # ls non_existent_directory
 # exit_status=$?

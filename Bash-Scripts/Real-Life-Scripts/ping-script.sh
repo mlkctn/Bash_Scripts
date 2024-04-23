@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 # Description: Script to ping a remote host and notify 
 
 hosts="192.168.1.1"

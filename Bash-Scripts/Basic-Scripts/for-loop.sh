@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Melik Cetin
 
 for i in {1..5}
 do 

@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Daniel
+# Author: Melik Cetin
 # Description: Command to remove empty line in file 
 
 file="test.txt"
