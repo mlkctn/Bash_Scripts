@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author: Melik Cetin
+# Description: This script finds and deletes all .gz files under /var/log, excluding any files in directories with "private" in the path.
 
 # Find all .gz files under /var/log, excluding anything with "private" in the path
 files=$(find /var/log -type f  -name "*.gz"  ! -path "*private*")
@@ -24,4 +26,3 @@ if [[ "$answer" == "y" ]]; then
 else
         echo "Aborted. No files deleted."
 fi
-
